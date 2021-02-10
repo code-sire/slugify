@@ -1,2 +1,2 @@
 # slugify
-A Python Function
+A Python Function that cleans up text that is passed to it.
