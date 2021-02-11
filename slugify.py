@@ -1,6 +1,4 @@
-# Slugify
-
-# "re" is used for string matching operations.
+# Importing what is needed
 import re
 
 # Defined a process to used when wanting to normalize string data.
